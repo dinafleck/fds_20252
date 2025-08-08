@@ -8,3 +8,4 @@ public class App {
  }
 }
 //comentário inserido na branch main
+//Bug resolvido
