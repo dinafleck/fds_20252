@@ -5,6 +5,8 @@ public class App {
  System.out.println("Running Java Version: "+version+"\n");
  String name = System.getProperty("user.name");
  System.out.println("User account name: "+name+"\n");
+ System.out.println("Oi, aqui é o Diogo");
+ 
  }
 }
 //comentário inserido na branch main
