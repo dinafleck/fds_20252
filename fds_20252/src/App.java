@@ -10,3 +10,4 @@ public class App {
 //comentário inserido na branch main
 //novo comentario branch alteracao - finalizada
 //Bug resolvido
+//teste novo
