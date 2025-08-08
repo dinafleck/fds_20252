@@ -1,6 +1,6 @@
 public class App {
  public static void main(String[] args) {
- System.out.println("\nHello world!");
+ System.out.println("\nHello new world!");
  String version = System.getProperty("java.version");
  System.out.println("Running Java Version: "+version+"\n");
  String name = System.getProperty("user.name");
